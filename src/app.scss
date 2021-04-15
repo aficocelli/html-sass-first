@@ -11,6 +11,10 @@ $main_color: red;
 }
 
 
-h1{
+h1, p{
   color: $main_color;
+}
+
+button{
+  background-color: $main_color;
 }
